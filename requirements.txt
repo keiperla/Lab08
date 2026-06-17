@@ -1,0 +1,13 @@
+numpy
+jupyter
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+pyspark
+gdown
+tqdm
+jupyter
+xhtml2pdf
+nbconvert
